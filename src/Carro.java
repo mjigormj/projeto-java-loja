@@ -2,7 +2,7 @@
 public class Carro {
     String nome;
     String marca;
-    String modelo;
+    String modelo;              
     String cor;
     String largura;
     String peso;
